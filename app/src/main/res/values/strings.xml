@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bottom Navigation</string>
+
+
+
+    // Project details
+    1. Go this link : https://github.com/aurelhubert/ahbottomnavigation
+    2. flow that. if you face any manifest problem migrate to AndroidX
+
+</resources>
